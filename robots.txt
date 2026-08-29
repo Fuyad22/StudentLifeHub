@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fuyad22.github.io/StudentLifeHub/sitemap.xml
